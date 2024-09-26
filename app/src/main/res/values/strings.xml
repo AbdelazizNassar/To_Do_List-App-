@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string-array name="categories">
+        <item name="all">All</item>
+        <item name="work">Work</item>
+        <item name="personal">Personal</item>
+        <item name="sports">Sports</item>
+        <item name="study">Study</item>
+    </string-array>
+    <string name="notification">"This app requires permission to access Notification to provide you with timely reminders for your tasks. Please enable the permission in your settings."</string>
+    <string name="alarm">"To set exact alarms, please allow the app to schedule alarms in the settings."</string>
+</resources>
